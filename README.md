@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏼, I'm Tolga</h1>
-<h3 align="center">A computer engineer who improves himself as an android developer.</h3>
+<h3 align="center">Android developer.</h3>
 
 - 📫 How to reach me **tolga_nacar@outlook.com**
 
